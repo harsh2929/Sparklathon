@@ -52,8 +52,8 @@ const moduleExports = {
     GTAG_MEASUREMENT_ID: '',
     FB_APPID: '',
     // DATABASE
-    POSTGRES_USER: 'doadmin',
-    POSTGRES_PASSWORD: 'AVNS_b_bPDDFxhgU4mPl21qW',
+    POSTGRES_USER: 'don',
+    POSTGRES_PASSWORD: '',
     POSTGRES_DB: 'production',
     PORT: 25060,
     DATABASE_END_POINT:
@@ -65,11 +65,11 @@ const moduleExports = {
     // PORT: 5432,
     // DATABASE_END_POINT: '127.0.0.1',
     // S3 BUCKET
-    S3_BUCKET_NAME: 'ecom-bucket',
+    S3_BUCKET_NAME: '',
     S3_REGION: 'fra1',
-    S3_ACCESS_KEY_ID: 'DO00H9TH8LTB7GVXQD2X',
-    S3_SECRET_ACCESS_KEY: 'vgNsUneQXlOGcZP7blBiuxkh0AvKLBRQg5D5frE+dVo',
-    S3_ENDPOINT: 'https://ecom-bucket.fra1.digitaloceanspaces.com'
+    S3_ACCESS_KEY_ID: ``,
+    S3_SECRET_ACCESS_KEY:`',
+    S3_ENDPOINT: ''
   },
   typescript: {
     ignoreBuildErrors: true
