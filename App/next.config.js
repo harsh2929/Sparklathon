@@ -57,7 +57,7 @@ const moduleExports = {
     POSTGRES_DB: 'production',
     PORT: 25060,
     DATABASE_END_POINT:
-      'db-postgresql-lon1-37795-do-user-9047386-0.b.db.ondigitalocean.com',
+      
     // URL: 'http://localhost:3001',
     // POSTGRES_USER: 'crud_user',
     // POSTGRES_PASSWORD: 'crud_password',
